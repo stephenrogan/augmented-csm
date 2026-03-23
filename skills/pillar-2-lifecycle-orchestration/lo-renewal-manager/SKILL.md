@@ -3,6 +3,7 @@ name: lo-renewal-manager
 description: Tracks renewal timelines across the portfolio, triggers renewal workflows at defined milestones, surfaces renewal readiness with risk and opportunity signals, and manages the operational mechanics of the renewal process. Use when asked to manage renewals, track renewal dates, build renewal playbooks, automate renewal workflows, assess renewal risk, prepare for renewal conversations, forecast renewal outcomes, or when any account is approaching contract end date. Also triggers for questions about renewal pipeline, contract management, renewal forecasting, or retention operations.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: lifecycle-orchestration
   category: workflow-engine

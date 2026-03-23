@@ -3,6 +3,7 @@ name: cc-report-generator
 description: Produces weekly, monthly, and quarterly reports for CSMs, managers, and leadership by aggregating data from all pillar skills into formatted, distributable reports. Adapts content, detail, and emphasis by audience. Use when asked to generate a CS report, build a weekly summary, create a portfolio report, produce a dashboard update, compile metrics for leadership, or when any recurring reporting need should be automated. Also triggers for questions about CS reporting, metrics compilation, dashboard data generation, performance summaries, or NRR reporting.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: communication-content
   category: data-ops

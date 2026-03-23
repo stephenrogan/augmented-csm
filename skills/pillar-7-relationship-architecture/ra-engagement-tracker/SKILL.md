@@ -3,6 +3,7 @@ name: ra-engagement-tracker
 description: Tracks touchpoint frequency and recency across all channels for every stakeholder at every account. Computes engagement health per contact, detects declining patterns, and identifies accounts where the relationship is cooling before the health score reflects it. Use when asked to track customer engagement, monitor touchpoint cadence, identify engagement gaps, assess relationship activity, or when any workflow needs to know how recently and how frequently the CSM is engaging with their accounts. Also triggers for questions about touchpoint cadence, engagement health, contact activity, relationship frequency, or communication gaps.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: relationship-architecture
   category: relationship-data

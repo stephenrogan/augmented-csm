@@ -3,6 +3,7 @@ name: ic-cross-func-prep
 description: Prepares materials for internal cross-functional meetings including account reviews, pipeline reviews, escalation committees, and CS-product syncs. Compiles relevant account data tailored to each meeting's audience and purpose. Use when asked to prepare for an internal meeting, build an account review deck, compile data for a pipeline review, create materials for a CS-product sync, or when any internal meeting needs structured account data. Also triggers for questions about internal meeting preparation, cross-functional review materials, team sync documentation, or pipeline review content.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: internal-coordination
   category: coordination-engine

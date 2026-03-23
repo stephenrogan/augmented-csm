@@ -3,6 +3,7 @@ name: lo-check-in-scheduler
 description: Schedules and triggers recurring customer touchpoint cadences based on lifecycle stage, segment, health status, and engagement history. Use when asked to set up check-in cadences, manage touchpoint schedules, automate customer outreach timing, build engagement rhythms, adjust call frequency based on account health, or when any account needs a structured recurring touchpoint schedule. Also triggers for questions about touchpoint cadence, engagement frequency, call scheduling automation, or proactive outreach timing.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: lifecycle-orchestration
   category: workflow-engine

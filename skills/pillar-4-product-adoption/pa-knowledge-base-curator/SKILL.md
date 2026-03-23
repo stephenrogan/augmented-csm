@@ -3,6 +3,7 @@ name: pa-knowledge-base-curator
 description: Keeps customer-facing help content aligned with product changes, identifies content gaps from support ticket patterns, surfaces relevant resources to customers based on adoption profiles, and measures documentation effectiveness through ticket deflection. Use when asked to audit help content, identify knowledge base gaps, recommend documentation improvements, match customers to relevant help articles, track documentation quality, or when support ticket patterns suggest missing or outdated documentation. Also triggers for questions about help centre management, documentation quality, self-serve content strategy, support deflection through better documentation, or content gap analysis.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: product-adoption
   category: enablement-engine

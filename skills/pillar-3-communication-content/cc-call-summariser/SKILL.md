@@ -3,6 +3,7 @@ name: cc-call-summariser
 description: Generates structured post-call summaries from call transcripts or CSM notes, extracting key discussion points, decisions, action items with owners and deadlines, sentiment signals, and risk or opportunity flags. Routes extracted data to downstream skills for tracking. Use when asked to summarise a call, extract action items from a meeting, generate call notes, create a post-meeting summary, or when any workflow needs structured output from a customer conversation. Also triggers for questions about call documentation, meeting notes, action item extraction, or conversation capture.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: communication-content
   category: content-engine

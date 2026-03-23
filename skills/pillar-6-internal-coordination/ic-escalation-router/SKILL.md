@@ -3,6 +3,7 @@ name: ic-escalation-router
 description: Routes customer escalations to the appropriate internal team with structured documentation, severity classification, and tracking. Ensures escalations reach the right people with full context and tracks through to resolution. Use when asked to escalate an account issue, route a customer problem to engineering or product, create an escalation ticket, manage the escalation process, or when any customer issue needs internal team involvement beyond the CSM. Also triggers for questions about escalation management, internal routing, cross-functional issue resolution, or escalation tracking.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: internal-coordination
   category: coordination-engine

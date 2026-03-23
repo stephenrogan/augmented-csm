@@ -3,6 +3,7 @@ name: pa-enablement-orchestrator
 description: Coordinates customer enablement activities including training session scheduling, learning path management, certification tracking, and enablement content recommendation based on adoption gaps. Bridges the gap between product access and product competence. Use when asked to schedule training, manage customer education, track certification progress, recommend learning resources, build an enablement plan, coordinate onboarding training, or when any adoption gap could be addressed through customer education. Also triggers for questions about customer training, learning management, enablement programmes, knowledge transfer, or adoption through education.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: product-adoption
   category: enablement-engine

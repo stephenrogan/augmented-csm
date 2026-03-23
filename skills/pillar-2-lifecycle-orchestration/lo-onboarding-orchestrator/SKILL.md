@@ -3,6 +3,7 @@ name: lo-onboarding-orchestrator
 description: Manages the customer onboarding workflow from sales handoff through first-value milestone. Sequences tasks, triggers communications, tracks completion, and flags delays. Use when asked to set up onboarding for a new customer, track onboarding progress, build onboarding workflows, automate onboarding sequences, manage customer go-live, monitor time-to-value, or when any new account needs to be moved through a structured activation process. Also triggers for questions about onboarding playbooks, kickoff coordination, or implementation tracking.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: lifecycle-orchestration
   category: workflow-engine

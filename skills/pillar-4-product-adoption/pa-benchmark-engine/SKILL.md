@@ -3,6 +3,7 @@ name: pa-benchmark-engine
 description: Benchmarks account adoption metrics against segment peers to show customers where they stand relative to similar companies. Produces comparison data for QBRs, adoption conversations, and value narratives. Use when asked to benchmark a customer against peers, create adoption comparisons, show how an account compares to similar companies, build segment comparison data, or when any customer-facing conversation needs peer benchmarking context. Also triggers for questions about peer comparison, industry benchmarks, best-in-class adoption metrics, or competitive positioning within a segment.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: product-adoption
   category: adoption-engine

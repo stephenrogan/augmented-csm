@@ -3,6 +3,7 @@ name: bi-account-brief
 description: Compiles a comprehensive structured account snapshot by pulling from all available data sources. Gives the CSM full account context in under 60 seconds instead of 30-60 minutes of manual assembly. Use when asked to prepare for a customer call, build an account brief, generate a QBR prep summary, create an account snapshot, review an account before a meeting, assemble account context for an escalation, or when any human decision point across any pillar needs current account context. Also triggers for pre-call prep, account review, executive briefing preparation, or any request for a consolidated view of an account.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: book-intelligence
   category: intelligence-layer

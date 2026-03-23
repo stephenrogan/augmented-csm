@@ -3,6 +3,7 @@ name: cc-crm-updater
 description: Automatically logs activities, updates CRM fields, and maintains data accuracy across the CRM by syncing information from email, calendar, call transcripts, and product analytics. Detects and flags data inconsistencies, stale records, and missing fields. Use when asked to update CRM records, auto-log activities, sync account data, maintain CRM hygiene, or automate CRM field updates. Also triggers for questions about CRM accuracy, activity logging automation, data sync between systems, CRM data quality, or field reconciliation.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: communication-content
   category: data-ops

@@ -3,6 +3,7 @@ name: lo-handoff-manager
 description: Generates handoff documentation and manages transition sequences when accounts move between teams, CSMs, or lifecycle stages. Covers sales-to-CS handoff, CSM-to-CSM reassignment, CS-to-renewal team handoff, and any structured account transition. Use when asked to create a handoff brief, manage an account transition, prepare for CSM reassignment, build a sales-to-CS handoff, transfer account knowledge, or when any account is changing ownership. Also triggers for questions about knowledge transfer, account reassignment, team transitions, or onboarding a new CSM onto an existing account.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: lifecycle-orchestration
   category: workflow-engine

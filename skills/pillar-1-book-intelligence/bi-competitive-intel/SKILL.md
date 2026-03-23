@@ -3,6 +3,7 @@ name: bi-competitive-intel
 description: Monitors for signals that a customer may be evaluating alternatives or has been approached by a competitor. Surfaces early warning so the CSM can intervene before a formal evaluation begins. Use when asked to detect competitive threats, monitor for churn to competitors, identify accounts evaluating alternatives, track competitor mentions, build competitive displacement alerts, assess competitive risk across the portfolio, or when any workflow needs to know if a customer is looking at other vendors. Also triggers for questions about win-back, competitor tracking, evaluation detection, or displacement risk.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: book-intelligence
   category: detection-layer

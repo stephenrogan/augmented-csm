@@ -3,6 +3,7 @@ name: bi-risk-detector
 description: Monitors a defined set of risk indicators across the customer portfolio and generates prioritised risk alerts. Combines leading indicators from usage and health data with event-based triggers like champion departure, support escalation, and missed meetings. Use when asked to identify at-risk accounts, build a risk queue, set up churn early warning, monitor renewal risk, create risk dashboards, prioritise CSM intervention, or when any workflow needs to know which accounts require immediate attention. Also triggers for churn prediction, risk scoring, and portfolio risk assessment.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: book-intelligence
   category: detection-layer

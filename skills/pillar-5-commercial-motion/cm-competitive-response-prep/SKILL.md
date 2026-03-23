@@ -3,6 +3,7 @@ name: cm-competitive-response-prep
 description: Prepares structured competitive response materials when a competitive threat is detected on an account. Assembles value evidence, competitive differentiation, switching cost analysis, and a response framework for the CSM. Use when asked to prepare a competitive response, build a retention case against a competitor, create a win-back plan, or when bi-competitive-intel has flagged a competitive signal that the CSM is preparing to address. Also triggers for questions about competitive positioning, win-back preparation, retention defence strategy, or handling a customer evaluation.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: commercial-motion
   category: commercial-ops

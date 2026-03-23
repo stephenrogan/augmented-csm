@@ -3,6 +3,7 @@ name: pa-value-reporter
 description: Measures and reports on value delivered to customers including time-to-value tracking, ROI evidence assembly, outcome metrics, and value narratives for QBRs and renewal conversations. Use when asked to measure customer ROI, track time-to-value, build a value report, create an ROI case, quantify outcomes for a customer, or when any workflow needs evidence of value delivered. Also triggers for questions about customer outcomes, value realisation, ROI measurement, business impact quantification, or proving the investment is worth it.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: product-adoption
   category: value-measurement

@@ -3,6 +3,7 @@ name: ic-feature-request-tracker
 description: Logs customer feature requests from calls, tickets, and emails, links them to the product roadmap, tracks their status, and surfaces updates to CSMs when requested features ship or are declined. Use when asked to log a feature request, track product requests, link customer needs to the roadmap, monitor when a requested feature is available, or when any customer interaction surfaces a product enhancement need. Also triggers for questions about feature request management, roadmap tracking, customer-requested product changes, or product backlog from the CS perspective.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: internal-coordination
   category: coordination-engine

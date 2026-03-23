@@ -3,6 +3,7 @@ name: cc-email-drafter
 description: Drafts customer-facing emails including check-ins, follow-ups, meeting confirmations, milestone notifications, and routine communications. Personalises with account data and calibrates tone by segment and relationship context. Use when asked to write a customer email, draft a follow-up, compose a check-in message, create an email sequence, or when any lifecycle workflow needs to send a templated communication. Also triggers for questions about email templates, outreach copy, customer communication drafting, or tone calibration for customer emails.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: communication-content
   category: content-engine

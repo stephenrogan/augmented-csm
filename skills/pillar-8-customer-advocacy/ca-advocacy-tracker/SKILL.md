@@ -3,6 +3,7 @@ name: ca-advocacy-tracker
 description: Manages customer advocacy programmes including reference tracking, case study pipeline, review site engagement, testimonial collection, and NPS follow-up workflows. Identifies advocacy-ready accounts, manages the advocacy pipeline, matches advocates to requests, and prevents advocate fatigue. Use when asked to manage customer references, track case study progress, coordinate review requests, build an advocacy programme, identify potential advocates, follow up on NPS promoters, or when any workflow needs to know which customers are available and willing to advocate. Also triggers for questions about customer references, testimonials, case studies, G2 reviews, advocacy programme management, or NPS follow-up strategy.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: customer-advocacy
   category: advocacy-engine

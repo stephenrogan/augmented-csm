@@ -3,6 +3,7 @@ name: bi-health-score
 description: Computes and maintains composite health scores for customer accounts by aggregating product usage, support engagement, stakeholder activity, and sentiment signals. Use when asked to calculate health scores, assess account health, monitor portfolio health, identify at-risk accounts, build health scoring models, set up health monitoring, or when any downstream CS workflow needs current account health data. Also triggers for questions about customer health, account risk, portfolio risk, health trends, health dashboards, or NRR forecasting that depends on health inputs.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: book-intelligence
   category: foundation-layer

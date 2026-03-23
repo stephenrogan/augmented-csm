@@ -3,6 +3,7 @@ name: lo-qbr-orchestrator
 description: Manages the end-to-end QBR process including scheduling, attendee coordination, content preparation, and follow-up tracking. Use when asked to schedule a QBR, prepare a business review, build QBR content, automate QBR preparation, coordinate a quarterly review, generate a QBR deck, or when any account needs a structured business review. Also triggers for questions about business review cadence, executive review preparation, or customer success review meetings.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: lifecycle-orchestration
   category: workflow-engine

@@ -3,6 +3,7 @@ name: ra-stakeholder-mapper
 description: Tracks customer org charts, contact roles, engagement frequency, and relationship coverage across accounts. Maintains a structured stakeholder map that identifies champions, economic buyers, influencers, and coverage gaps. Use when asked to map stakeholders, track customer contacts, build an org chart, identify relationship gaps, assess stakeholder coverage, or when any workflow needs to know who matters at an account and how recently they have been engaged. Also triggers for questions about contact mapping, multi-threading assessment, stakeholder analysis, single-thread risk, or relationship breadth.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: relationship-architecture
   category: relationship-data

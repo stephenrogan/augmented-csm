@@ -3,6 +3,7 @@ name: ic-internal-notifier
 description: Sends automated status updates and notifications to internal stakeholders when account events occur. Keeps product, support, sales, and leadership informed without requiring the CSM to manually update each team. Use when asked to set up internal notifications, automate status updates, keep cross-functional teams informed about account changes, or when any account event should trigger an internal communication. Also triggers for questions about internal communication automation, cross-team updates, stakeholder notification, or event-driven alerting.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: internal-coordination
   category: coordination-engine

@@ -3,6 +3,7 @@ name: bi-usage-monitor
 description: Tracks product usage patterns at the account level, detects meaningful behaviour changes, and classifies trends against segment benchmarks. Use when asked to monitor usage, detect usage declines, track adoption trends, identify usage anomalies, flag accounts with dropping engagement, analyse product stickiness, compare account usage to peers, or when any workflow needs current usage trend data for an account. Also triggers for questions about DAU/MAU ratios, feature adoption rates, session depth, or usage benchmarking.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: book-intelligence
   category: foundation-layer

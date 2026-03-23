@@ -3,6 +3,7 @@ name: lo-milestone-tracker
 description: Tracks customer progress against defined adoption and lifecycle milestones, flags blockers, and reports on time-to-milestone metrics. Use when asked to track customer milestones, monitor adoption progress, measure time-to-value, build success plans with measurable checkpoints, identify stalled accounts, report on adoption velocity, or when any workflow needs to know whether a customer is on track against their plan. Also triggers for questions about success planning, goal tracking, outcome measurement, or adoption milestones.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: lifecycle-orchestration
   category: workflow-engine

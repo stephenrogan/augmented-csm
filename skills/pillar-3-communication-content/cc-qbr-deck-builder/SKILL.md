@@ -3,6 +3,7 @@ name: cc-qbr-deck-builder
 description: Generates data-populated QBR presentation decks by pulling usage metrics, health data, support history, value evidence, and adoption analytics into a structured slide format by segment. Produces a deck the CSM customises with strategic narrative and recommendations. Use when asked to build a QBR deck, prepare business review slides, generate a customer presentation with data, populate a QBR template, or when lo-qbr-orchestrator triggers content preparation. Also triggers for questions about QBR content, business review presentations, customer-facing data decks, or quarterly review materials.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: communication-content
   category: content-engine

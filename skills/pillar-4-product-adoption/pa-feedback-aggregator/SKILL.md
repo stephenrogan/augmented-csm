@@ -3,6 +3,7 @@ name: pa-feedback-aggregator
 description: Aggregates product feedback from support tickets, call transcripts, surveys, and CSM notes, then clusters into themes for the product team. Produces weighted reports showing which issues affect the most customers and the most revenue. Use when asked to collect customer feedback, aggregate feature requests, theme product feedback, build a voice-of-customer report, identify common product gaps, or when any workflow needs structured feedback data for the product team. Also triggers for questions about customer feedback analysis, feature request patterns, product improvement priorities, or voice of customer reporting.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: product-adoption
   category: feedback-loop

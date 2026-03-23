@@ -3,6 +3,7 @@ name: bi-segment-trends
 description: Analyses portfolio-level trends across customer segments to identify systemic patterns affecting multiple accounts. Use when asked to analyse portfolio health by segment, identify cohort-level churn patterns, compare retention across tiers or industries, build portfolio health reports, detect systemic issues across the book, assess segment-level risk, or when leadership needs a strategic view of CS performance beyond individual accounts. Also triggers for questions about cohort analysis, segment benchmarking, portfolio-level NRR drivers, or CS capacity planning inputs.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: book-intelligence
   category: intelligence-layer

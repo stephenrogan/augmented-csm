@@ -3,6 +3,7 @@ name: ca-community-monitor
 description: Tracks customer engagement in community channels, surfaces unanswered questions, identifies potential advocates from activity patterns, and detects sentiment shifts in community discussions. Use when asked to monitor community engagement, track forum activity, identify community advocates, detect community sentiment, manage community health, or when any workflow needs insight into peer-to-peer customer engagement. Also triggers for questions about community management, forum monitoring, peer engagement, community-driven support, or advocate identification from community activity.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: customer-advocacy
   category: advocacy-engine

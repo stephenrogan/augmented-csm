@@ -3,6 +3,7 @@ name: ra-stakeholder-change-detector
 description: Monitors for stakeholder changes at customer accounts including champion departures, new executive hires, reorganisations, and role changes. Detects changes from CRM updates, LinkedIn signals, and engagement pattern shifts. Use when asked to track contact changes, monitor for champion departure, detect reorgs at customer accounts, set up stakeholder change alerts, or when any workflow needs early warning of relationship disruption. Also triggers for questions about contact monitoring, org change detection, stakeholder continuity, or relationship risk from personnel changes.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: relationship-architecture
   category: relationship-data

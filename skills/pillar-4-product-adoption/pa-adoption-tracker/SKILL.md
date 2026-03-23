@@ -3,6 +3,7 @@ name: pa-adoption-tracker
 description: Tracks feature-level adoption within accounts, identifies underutilised capabilities, and generates adoption gap analysis. Maps used vs. available features to surface where customers are leaving value on the table. Use when asked to track feature adoption, analyse product usage depth, identify underutilised features, build adoption plans, measure feature penetration, or when any workflow needs to understand what a customer is and is not using. Also triggers for questions about feature adoption rates, usage gaps, product stickiness, or adoption health.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: product-adoption
   category: adoption-engine

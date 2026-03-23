@@ -3,6 +3,7 @@ name: lo-sla-monitor
 description: Tracks commitments, SLAs, and promises made to customers across all touchpoints. Surfaces upcoming deadlines, flags breaches, and maintains an accountability record. Use when asked to track customer commitments, monitor SLA compliance, manage action items from calls and meetings, ensure follow-through on promises, build an accountability system for CS, or when any workflow needs to know what has been committed to a customer and whether it has been delivered. Also triggers for questions about commitment tracking, follow-up management, promise fulfilment, or accountability monitoring.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: lifecycle-orchestration
   category: workflow-engine

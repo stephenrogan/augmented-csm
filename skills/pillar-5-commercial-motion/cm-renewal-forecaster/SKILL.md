@@ -3,6 +3,7 @@ name: cm-renewal-forecaster
 description: Forecasts renewal outcomes across the portfolio by combining health data, engagement signals, usage trends, and historical patterns into probability-weighted projections. Produces renewal pipeline reports for CS leadership, CRO, and CFO audiences. Use when asked to forecast renewals, predict churn probability, build a retention forecast, assess portfolio renewal risk, project NRR, or when leadership needs forward-looking retention data. Also triggers for questions about renewal probability, churn forecasting, NRR projection, retention pipeline, or revenue risk assessment.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: commercial-motion
   category: commercial-ops

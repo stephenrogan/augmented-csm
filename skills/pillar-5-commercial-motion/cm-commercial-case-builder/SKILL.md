@@ -3,6 +3,7 @@ name: cm-commercial-case-builder
 description: Assembles data-driven commercial cases for expansion conversations by compiling usage evidence, value metrics, benchmark comparisons, and pricing context into structured proposals. Use when asked to build an expansion proposal, create an upsell case, prepare a commercial conversation, assemble evidence for a pricing discussion, draft an expansion business case, or when any expansion signal needs to be translated into a customer-ready commercial narrative. Also triggers for questions about expansion proposals, upsell preparation, commercial evidence, or growth case building.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: commercial-motion
   category: commercial-ops

@@ -3,6 +3,7 @@ name: cc-internal-brief-writer
 description: Creates internal account briefs, escalation write-ups, and executive summaries for internal audiences. Compiles cross-system data into standardised formats for leadership reviews, cross-functional meetings, and escalation documentation. Adapts content and detail level to the specific audience. Use when asked to write an escalation brief, prepare an internal account summary, create a leadership report on an account, or document an escalation. Also triggers for questions about internal documentation, escalation reports, account status summaries for managers, or cross-functional context documents.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: communication-content
   category: content-engine

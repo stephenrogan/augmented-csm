@@ -3,6 +3,7 @@ name: bi-expansion-detector
 description: Identifies accounts showing signals of readiness for expansion including upsell, cross-sell, and seat or licence growth. Surfaces opportunity with evidence so humans can time the commercial conversation. Use when asked to find expansion opportunities, identify upsell candidates, detect cross-sell signals, analyse licence utilisation for growth, build an expansion pipeline, score accounts for commercial readiness, or when any workflow needs to know which accounts are ripe for growth. Also triggers for questions about expansion scoring, revenue growth signals, or commercial opportunity identification.
 license: MIT
 metadata:
+  author: Stephen Rogan
   version: "1.0.0"
   pillar: book-intelligence
   category: detection-layer
