@@ -10,7 +10,7 @@ CSMs spend 60-70% of their week on work that does not require their judgment -- 
 
 A complete decomposition of the CSM role into eight operational pillars, with every agent-executable activity specified as a skill following the [agentskills.io](https://agentskills.io) open standard. Each skill includes trigger conditions, execution logic, output formats, human decision guides, and dependency maps.
 
-This is not a product. It is a specification -- an architecture document that maps what agents should do, what humans should do, and where the boundary sits.
+This is not a product. It is a specification, an architecture document that maps what agents should do, what humans should do, and where the boundary sits.
 
 ## Who This Is For
 
@@ -119,7 +119,7 @@ augmented-csm/
 
 ### As a CS Leader
 
-Read the pillar structure and skill specifications to understand what your team's agent-augmented operating model could look like. Use the AGENT/HUMAN classifications to audit your own processes. Start with Pillar 1 (Book Intelligence) -- it is the foundation everything else depends on.
+Read the pillar structure and skill specifications to understand what your team's agent-augmented operating model could look like. Use the AGENT/HUMAN classifications to audit your own processes. Start with Pillar 1 (Book Intelligence). It is the foundation everything else depends on.
 
 ### As a CS Ops / RevOps Builder
 
@@ -168,7 +168,7 @@ If you are implementing this, do not try to build all 38 skills at once. Follow 
 
 ## Why Open Source
 
-CS as a discipline has no shared technical language for what agents should do. Every team reinvents the same wheels -- health scoring, risk detection, renewal workflows -- from scratch, in isolation. The result is thousands of companies building the same basic architecture independently, each making the same mistakes.
+CS as a discipline has no shared technical language for what agents should do. Every team reinvents the same wheels -- health scoring, risk detection, renewal workflows, from scratch, in isolation. The result is thousands of companies building the same basic architecture independently, each making the same mistakes.
 
 This repo exists to provide a starting point that is more complete than anything most teams would build alone, and to create a shared reference that the CS community can improve collectively. The specifications are opinionated but the MIT licence means you can fork, adapt, and disagree freely.
 
@@ -176,7 +176,7 @@ If this saves a CS Ops team two months of architecture work, or helps a VP of CS
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md). PRs welcome -- particularly for new reference documents, alternative skill implementations, and real-world calibration data.
+See [CONTRIBUTING.md](CONTRIBUTING.md). PRs welcome, particularly for new reference documents, alternative skill implementations, and real-world calibration data.
 
 ## Feedback
 
