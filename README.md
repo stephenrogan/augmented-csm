@@ -4,7 +4,7 @@
 
 **38 agent skills that cover the complete CSM operational surface area. Built to the [Agent Skills](https://agentskills.io) open standard.**
 
-CSMs spend 60-70% of their week on work that does not require their judgment -- data gathering, report formatting, email drafting, CRM maintenance, meeting preparation, follow-up communications, status tracking. This repo contains the skill specifications to hand that work to agents so CSMs can focus on the 20-40% that actually drives outcomes: strategic diagnosis, relationship judgment, commercial timing, and the human craft of customer success.
+CSMs spend 60-70% of their week on work that does not require their judgment. Data gathering, report formatting, email drafting, CRM maintenance, meeting preparation, follow-up communications, status tracking. This repo contains the skill specifications to hand that work to agents so CSMs can focus on the 20-40% that actually drives outcomes: strategic diagnosis, relationship judgment, commercial timing, and the human craft of customer success.
 
 ## What This Is
 
@@ -14,7 +14,7 @@ This is not a product. It is a specification, an architecture document that maps
 
 ## Who This Is For
 
-This architecture is designed for **B2B SaaS companies with named-account CS motions** -- typically 50-500 managed customers with dedicated or pooled CSMs. If your motion is high-touch enterprise, mid-market relationship-driven, or managed SMB, this maps directly.
+This architecture is designed for **B2B SaaS companies with named-account CS motions, typically 50-500 managed customers with dedicated or pooled CSMs. If your motion is high-touch enterprise, mid-market relationship-driven, or managed SMB, this maps directly.
 
 If you run a pure PLG motion with 10,000+ self-serve accounts, a consumption-based model, or a fully digital-touch scaled programme, the pillar structure still applies but the skill decomposition would look different. The principles transfer; the specifications need adaptation.
 
@@ -22,7 +22,7 @@ The agent density estimates (60-70% blended) are derived from operational analys
 
 ### Start Here
 
-If you want to start using agent skills immediately without system integration, see **[CSM Skills](https://github.com/stephenrogan/csm-skills)** -- 58 plug-and-play skills that work from a single conversation. Use them standalone today; wire them into your data systems when you are ready for the full architecture.
+If you want to start using agent skills immediately without system integration, see **[CSM Skills](https://github.com/stephenrogan/csm-skills)**, 58 plug-and-play skills that work from a single conversation. Use them standalone today; wire them into your data systems when you are ready for the full architecture.
 
 ## Agent Density by Pillar
 
@@ -47,7 +47,7 @@ If you want to start using agent skills immediately without system integration, 
 
 ## The Governing Principle
 
-Any process step where a human executes work that does not require human judgment is a candidate for agent execution. The goal is not to replace CSMs but to multiply their impact -- absorbing growth without proportional headcount increases.
+Any process step where a human executes work that does not require human judgment is a candidate for agent execution. The goal is not to replace CSMs but to multiply their impact, absorbing growth without proportional headcount increases.
 
 The agent handles production work. The human handles judgment, relationships, and strategy. The boundary between the two is defined explicitly in every skill specification.
 
@@ -149,13 +149,13 @@ Every skill in this repo follows the [Agent Skills specification](https://agents
 
 If you are implementing this, do not try to build all 38 skills at once. Follow the dependency chain:
 
-**Phase 1 (Weeks 1-4):** Pillar 1 foundation -- `bi-health-score` and `bi-usage-monitor`. These produce the data everything else consumes.
+**Phase 1 (Weeks 1-4):** Pillar 1 foundation, `bi-health-score` and `bi-usage-monitor`. These produce the data everything else consumes.
 
-**Phase 2 (Weeks 3-6):** Pillar 1 detection + Pillar 7 data -- `bi-risk-detector`, `bi-expansion-detector`, `ra-stakeholder-mapper`, `ra-engagement-tracker`. These produce the signals and relationship data that drive the operational pillars.
+**Phase 2 (Weeks 3-6):** Pillar 1 detection + Pillar 7 data, `bi-risk-detector`, `bi-expansion-detector`, `ra-stakeholder-mapper`, `ra-engagement-tracker`. These produce the signals and relationship data that drive the operational pillars.
 
-**Phase 3 (Weeks 5-10):** Pillar 2 core -- `lo-onboarding-orchestrator`, `lo-check-in-scheduler`, `lo-renewal-manager`. The highest-impact lifecycle workflows.
+**Phase 3 (Weeks 5-10):** Pillar 2 core, `lo-onboarding-orchestrator`, `lo-check-in-scheduler`, `lo-renewal-manager`. The highest-impact lifecycle workflows.
 
-**Phase 4 (Weeks 8-14):** Pillar 3 + remaining Pillar 1 -- `cc-email-drafter`, `cc-call-summariser`, `cc-crm-updater`, `bi-account-brief`, `bi-segment-trends`. The daily productivity layer.
+**Phase 4 (Weeks 8-14):** Pillar 3 + remaining Pillar 1, `cc-email-drafter`, `cc-call-summariser`, `cc-crm-updater`, `bi-account-brief`, `bi-segment-trends`. The daily productivity layer.
 
 **Phase 5 (Weeks 12-18):** Everything else. By this point you have the foundation, the detection layer, the core workflows, and the daily productivity tools. The remaining skills add depth and sophistication.
 
@@ -168,7 +168,7 @@ If you are implementing this, do not try to build all 38 skills at once. Follow 
 
 ## Why Open Source
 
-CS as a discipline has no shared technical language for what agents should do. Every team reinvents the same wheels -- health scoring, risk detection, renewal workflows, from scratch, in isolation. The result is thousands of companies building the same basic architecture independently, each making the same mistakes.
+CS as a discipline has no shared technical language for what agents should do. Every team reinvents the same wheels, health scoring, risk detection, renewal workflows, from scratch, in isolation. The result is thousands of companies building the same basic architecture independently, each making the same mistakes.
 
 This repo exists to provide a starting point that is more complete than anything most teams would build alone, and to create a shared reference that the CS community can improve collectively. The specifications are opinionated but the MIT licence means you can fork, adapt, and disagree freely.
 
@@ -182,7 +182,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). PRs welcome, particularly for new refere
 
 The core thesis: your processes were built for the wrong operator. Rebuild them for agents to execute and humans to direct, and you unlock 60-70% of your team's capacity for the work that actually drives retention.
 
-If you implement any of this, we would genuinely like to hear about it -- what worked, what did not, and what you had to change. Open a discussion in this repo.
+If you implement any of this, we would genuinely like to hear from you. What worked, what did not, and what you had to change. Open a discussion in this repo.
 
 ## Licence
 
