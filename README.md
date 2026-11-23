@@ -182,7 +182,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). PRs welcome, particularly for new refere
 
 The core idea: each skill specifies which steps an agent executes and where a human decides, so a team can hand production work to agents and keep its own time for the judgment that drives retention.
 
-If you implement any of this, we would genuinely like to hear from you. What worked, what did not, and what you had to change. Open a discussion in this repo.
+If you implement any of this, we would genuinely like to hear from you. What worked, what did not, and what you had to change. Open an issue in this repo to share it.
 
 More from the author at [www.stephenrogan.com](https://www.stephenrogan.com).
 
