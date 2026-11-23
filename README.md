@@ -18,7 +18,7 @@ This architecture is designed for **B2B SaaS companies with named-account CS mot
 
 If you run a pure PLG motion with 10,000+ self-serve accounts, a consumption-based model, or a fully digital-touch scaled programme, the pillar structure still applies but the skill decomposition would look different. The principles transfer; the specifications need adaptation.
 
-The agent density estimates (60-70% blended) are derived from operational analysis of mid-market B2B SaaS CS teams. They should be validated through your own process audit before implementation.
+The agent density ranges in this repo are illustrative starting points, not measurements. Validate them against your own team's work through a process audit before implementation.
 
 ### Start Here
 
