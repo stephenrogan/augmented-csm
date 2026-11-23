@@ -2,7 +2,7 @@
 
 ## Your Role
 
-The Competitive Response Prep skill assembles the retention case when a competitive threat is detected — value evidence, switching cost analysis, differentiation, and a response framework by evaluation stage and trigger. Your job is to decide how to respond: whether to engage directly, how to frame the conversation, when to involve leadership, and what concessions (if any) are warranted. The agent arms you. You fight the fight.
+The Competitive Response Prep skill assembles the retention case when a competitive threat is detected: value evidence, switching cost analysis, differentiation, and a response framework by evaluation stage and trigger. Your job is to decide how to respond: whether to engage directly, how to frame the conversation, when to involve leadership, and what concessions (if any) are warranted. The agent arms you. You fight the fight.
 
 ## When You Will See This
 
@@ -25,7 +25,7 @@ Not every competitive signal warrants a defensive response. Before engaging:
 
 | Situation | When to Use | Next Step |
 |-----------|-------------|-----------|
-| **Proactive value reinforcement** | Early consideration — customer is just curious, not committed | Do not mention the competitor. Reinforce value delivered and deepen the relationship. Make the competitor's pitch irrelevant |
+| **Proactive value reinforcement** | Early consideration: the customer is just curious, not committed | Do not mention the competitor. Reinforce value delivered and deepen the relationship. Make the competitor's pitch irrelevant |
 | **Root cause conversation** | Active evaluation triggered by a real gap (product, service, price) | Address the underlying issue directly: "Help me understand what prompted this." Solve the problem; do not sell against the competitor |
 | **Direct engagement** | Decision is imminent and the customer is open to a final conversation | Ask for the chance to respond. Be honest about where you are stronger and where the competitor may be better. Credibility matters more than spin |
 | **Escalate to leadership** | Strategic account, C-suite-level evaluation, or executive relationship required | Involve your manager and consider VP-to-VP or CEO engagement. Match the level of the conversation |
@@ -43,4 +43,4 @@ If the competitor is stronger in the area the customer cares about, acknowledge 
 
 ### Service Failure as a Trigger
 
-If the evaluation was triggered by a service failure on your side (poor support, broken feature, missed commitment), the competitor did not win — you lost. Own the failure explicitly. "I understand why you are looking at alternatives after what happened with [issue]" is the right opening. Then show what has changed.
+If the evaluation was triggered by a service failure on your side (poor support, broken feature, missed commitment), the competitor did not win; you lost. Own the failure explicitly. "I understand why you are looking at alternatives after what happened with [issue]" is the right opening. Then show what has changed.
