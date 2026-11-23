@@ -184,6 +184,8 @@ The core thesis: your processes were built for the wrong operator. Rebuild them 
 
 If you implement any of this, we would genuinely like to hear from you. What worked, what did not, and what you had to change. Open a discussion in this repo.
 
+More from the author at [www.stephenrogan.com](https://www.stephenrogan.com).
+
 ## Licence
 
 [MIT](LICENSE)
