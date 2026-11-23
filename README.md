@@ -4,7 +4,7 @@
 
 **38 agent skills that cover the complete CSM operational surface area. Built to the [Agent Skills](https://agentskills.io) open standard.**
 
-CSMs spend 60-70% of their week on work that does not require their judgment. Data gathering, report formatting, email drafting, CRM maintenance, meeting preparation, follow-up communications, status tracking. This repo contains the skill specifications to hand that work to agents so CSMs can focus on the 20-40% that actually drives outcomes: strategic diagnosis, relationship judgment, commercial timing, and the human craft of customer success.
+Much of a CSM's week goes on work that does not require their judgment: data gathering, report formatting, email drafting, CRM maintenance, meeting preparation, follow-up communications, status tracking. This repo contains the skill specifications to hand that work to agents so CSMs can focus on the work that drives outcomes: strategic diagnosis, relationship judgment, commercial timing, and the human craft of customer success.
 
 ## What This Is
 
@@ -28,7 +28,7 @@ If you want to start using agent skills immediately without system integration, 
 
 ![Agent Density by Pillar](assets/agent-density.png)
 
-> The gradient tells you where human CS value lives. The top of the stack is production work — reliable, repeatable, agent-executable. The bottom is judgment, relationships, and strategy — the craft that drives outcomes.
+> The gradient tells you where human CS value lives. The top of the stack is production work: reliable, repeatable, agent-executable. The bottom is judgment, relationships, and strategy, the craft that drives outcomes.
 
 ## The Eight Pillars
 
@@ -180,7 +180,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). PRs welcome, particularly for new refere
 
 ## Feedback
 
-The core thesis: your processes were built for the wrong operator. Rebuild them for agents to execute and humans to direct, and you unlock 60-70% of your team's capacity for the work that actually drives retention.
+The core idea: each skill specifies which steps an agent executes and where a human decides, so a team can hand production work to agents and keep its own time for the judgment that drives retention.
 
 If you implement any of this, we would genuinely like to hear from you. What worked, what did not, and what you had to change. Open a discussion in this repo.
 
