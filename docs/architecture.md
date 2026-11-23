@@ -74,7 +74,7 @@ Low agent density. Agents track the pipeline, manage logistics, prevent advocate
 
 ## The Blended Picture
 
-Weighting each pillar by typical CSM time allocation, the blended agent-executable percentage across the full role lands at 60-70%.
+The per-pillar ranges above are illustrative starting points, not measurements. How they add up across the full role depends on how your team spends its time, so validate them against your own team's work before planning around any blended figure.
 
 The high-density pillars (Book Intelligence, Lifecycle Orchestration, Communications) carry the volume. The lower-density pillars (Commercial Motion, Relationship Architecture) are where the human earns their seat.
 
