@@ -4,7 +4,7 @@
 
 **38 agent skills that cover the complete CSM operational surface area. Built to the [Agent Skills](https://agentskills.io) open standard.**
 
-CSMs spend 60-70% of their week on work that does not require their judgment. Data gathering, report formatting, email drafting, CRM maintenance, meeting preparation, follow-up communications, status tracking. This repo contains the skill specifications to hand that work to agents so CSMs can focus on the 20-40% that actually drives outcomes: strategic diagnosis, relationship judgment, commercial timing, and the human craft of customer success.
+Much of a CSM's week goes on work that does not require their judgment: data gathering, report formatting, email drafting, CRM maintenance, meeting preparation, follow-up communications, status tracking. This repo contains the skill specifications to hand that work to agents so CSMs can focus on the work that drives outcomes: strategic diagnosis, relationship judgment, commercial timing, and the human craft of customer success.
 
 ## What This Is
 
@@ -18,7 +18,7 @@ This architecture is designed for **B2B SaaS companies with named-account CS mot
 
 If you run a pure PLG motion with 10,000+ self-serve accounts, a consumption-based model, or a fully digital-touch scaled programme, the pillar structure still applies but the skill decomposition would look different. The principles transfer; the specifications need adaptation.
 
-The agent density estimates (60-70% blended) are derived from operational analysis of mid-market B2B SaaS CS teams. They should be validated through your own process audit before implementation.
+The agent density ranges in this repo are illustrative starting points, not measurements. Validate them against your own team's work through a process audit before implementation.
 
 ### Start Here
 
@@ -28,7 +28,7 @@ If you want to start using agent skills immediately without system integration, 
 
 ![Agent Density by Pillar](assets/agent-density.png)
 
-> The gradient tells you where human CS value lives. The top of the stack is production work — reliable, repeatable, agent-executable. The bottom is judgment, relationships, and strategy — the craft that drives outcomes.
+> The gradient tells you where human CS value lives. The top of the stack is production work: reliable, repeatable, agent-executable. The bottom is judgment, relationships, and strategy, the craft that drives outcomes.
 
 ## The Eight Pillars
 
@@ -180,9 +180,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). PRs welcome, particularly for new refere
 
 ## Feedback
 
-The core thesis: your processes were built for the wrong operator. Rebuild them for agents to execute and humans to direct, and you unlock 60-70% of your team's capacity for the work that actually drives retention.
+The core idea: each skill specifies which steps an agent executes and where a human decides, so a team can hand production work to agents and keep its own time for the judgment that drives retention.
 
 If you implement any of this, we would genuinely like to hear from you. What worked, what did not, and what you had to change. Open a discussion in this repo.
+
+More from the author at [www.stephenrogan.com](https://www.stephenrogan.com).
 
 ## Licence
 
